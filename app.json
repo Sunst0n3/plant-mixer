@@ -14,7 +14,8 @@
       "backgroundColor": "#FDFCF8"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.sunston3.plant-mixer"
     },
     "android": {
       "adaptiveIcon": {
