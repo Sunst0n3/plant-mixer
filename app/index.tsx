@@ -7,7 +7,7 @@ export default function Index() {
   const router = useRouter();
 
   useEffect(() => {
-    router.replace('/(tabs)');
+    router.replace('/(tabs)/library');
   }, []);
 
   return <View style={{ flex: 1, backgroundColor: C.bg }} />;
